@@ -12,16 +12,16 @@
 
 - 🚀 Full Stack Tester From Turkey
 - 💬 Ask me about: Java, Selenium, SQL
-- 📫 How to reach me: smhgcr@outlook.com
+- 📫 How to reach me: semih.gecer@outlook.com
 - 📄 Know about my experiences: contact me
 - ⚡ Fun fact: Let's catch the bugs
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/smhgcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smhgcr" height="30" width="40" /></a>
-<a href="https://instagram.com/smhgcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smhgcr" height="30" width="40" /></a>
-<a href="https://medium.com/@smhgcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="smhgcr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/smhgcr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smhgcr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/semihgecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smhgcr" height="30" width="40" /></a>
+<a href="https://instagram.com/semihgecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="smhgcr" height="30" width="40" /></a>
+<a href="https://medium.com/@semihgecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="smhgcr" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/semihgecer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="smhgcr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
